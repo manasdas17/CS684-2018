@@ -1,1 +1,1 @@
-# CS684-2018 TIVA BOard Lab Experiments
+# CS684-2018 TIVA Board Lab Experiments
